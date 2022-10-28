@@ -1,0 +1,2 @@
+const randomNumber = prompt("put in a number")
+randomNumber < 10 ? console.log(`you have gorgeous eyes`) :randomNumber < 20 ? console.log(`you have gorgeous legs`) : console.log(`you are really smart` )
